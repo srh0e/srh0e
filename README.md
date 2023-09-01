@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @srh0e
+- 👀 I’m interested in computer science and cyber security
+- 🌱 I’m currently learning c,rust,assemble,go 
+- 💞️ I’m looking to collaborate on any project
+- 📫 How to reach me srhoemgmt@gmail.com
